@@ -1,5 +1,4 @@
-### Hi there 👋
-<img align='right' src="" width="230">
+<h2> Hi there, I'm Eva! 👋 </h2>
 
 ```javascript
 const eva = {
@@ -10,6 +9,7 @@ const eva = {
 }
 ```
 
+<img align='right' src="https://user-images.githubusercontent.com/60390797/87881573-79c23880-c9fa-11ea-919e-42090ce33c3a.png" width="230">
 <!--
 **evalopezm/evalopezm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
