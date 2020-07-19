@@ -4,9 +4,9 @@
 ```javascript
 const eva = {
   pronouns: "she" | "her",
+  Organization: "Soamee",
   code: [Javascript, HTML, CSS, SASS, React, React Native, Bootstrap],
   tools: [React, Yarn, Styled-Components, Git],
-  Organization: "Soamee",
 }
 ```
 
