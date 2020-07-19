@@ -10,7 +10,12 @@ const eva = {
 }
 ```
 
-
+---
+<h5> Get in Touch </h5>
+<ul>
+  <li><a href="https://twitter.com/evalopezmerino2">Twitter</a></li>
+  <li><a href="https://www.linkedin.com/in/evalopezmerino/?locale=en_US">Linkedin</a></li>
+  <li><a href="https://github.com/evalopezm/Portfolio">My Portfolio</a></li>
 <!--
 **evalopezm/evalopezm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
