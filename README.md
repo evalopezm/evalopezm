@@ -18,6 +18,6 @@ const eva = {
 ```
 
 ---
-<h4>💬 Get in Touch </h4>
+<h4 align="center">💬 Get in Touch </h4>
 
 <a href="https://twitter.com/evalopezmerino2">Twitter</a> 🐦  ||  <a href="https://www.linkedin.com/in/evalopezmerino/?locale=en_US">Linkedin</a> 💼 ||  <a href="https://github.com/evalopezm/Portfolio">My Portfolio 🎨</a>
