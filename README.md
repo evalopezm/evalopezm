@@ -10,8 +10,8 @@ const eva = {
   organization: "Soamee",
   education: [Media Comms at Complutense University of Madrid 🏛,
     Frontend Developer at Adalab 👩‍💻],
-  code: [Javascript, HTML, CSS, React, React Native, Bootstrap],
-  tools: [React, Yarn, Styled-Components, Git],
+  code: [Javascript, HTML, CSS, React, React Native, Gatsby],
+  tools: [Yarn, Styled-Components, Jest, Git],
   hobbies: [photography 📸, reading 📚, diving 🐠],
 };
 
