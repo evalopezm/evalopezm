@@ -11,7 +11,7 @@ const eva = {
   education: [Media Comms at Complutense University of Madrid 🏛,
     Frontend Developer at Adalab 👩‍💻],
   code: [Javascript, HTML, CSS, React, React Native, Gatsby],
-  tools: [Yarn, Styled-Components, Jest, Git],
+  tools: [Yarn, Styled-Components, Git, Jest, Jira],
   hobbies: [photography 📸, reading 📚, diving 🐠],
 };
 
